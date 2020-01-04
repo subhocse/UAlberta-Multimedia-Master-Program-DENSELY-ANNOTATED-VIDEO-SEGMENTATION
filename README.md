@@ -5,7 +5,7 @@ We have increased the accuracy of OSVOS by ~4.18% implementing BubbleNets and Im
 ### Installation:
 1. Clone the repository
    ```Shell
-   git clone https://github.com/zeeem/UAlberta-Multimedia-Master-Program-DENSELY-ANNOTATED-VIDEO-SEGMENTATION.git
+   git clone https://github.com/subhocse/UAlberta-Multimedia-Master-Program-DENSELY-ANNOTATED-VIDEO-SEGMENTATION.git
    ```
 2. Install if necessary the required dependencies:
    
